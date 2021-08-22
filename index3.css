@@ -1,0 +1,26 @@
+.head{
+    border: solid;
+    border-color: black;
+   width: 50%;
+   margin-left: 350px;
+   padding-left: 19%;
+   font-size: 30px;
+   font-family: "Sofia", sans-serif;
+   margin-top: 25px;
+}
+.list{
+    margin-top: 20px;
+    width: 50%;
+    height: auto;
+    margin-left: 350px;
+}
+li:hover{
+    background-color: yellow;
+}
+.button{
+    width: 50%;
+    height: auto;
+    margin-left: 350px;
+    padding-top: 15px;
+    
+}

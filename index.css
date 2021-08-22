@@ -1,0 +1,299 @@
+.login{
+    margin-left: 45%;
+    margin-top: 150px;
+     font-family: 'Akaya Kanadaka';
+    font-size: 60px;
+    color:cornsilk;
+  
+}
+#main{
+    
+    width: 55%;
+    margin-left: 230px ;
+    margin-top: 60px;
+    
+    
+   
+   
+    
+  
+    
+}
+label{
+    font-family: 'Akaya Kanadaka';
+    font-size: 22px;
+    color:white;
+    
+}
+
+#Email{
+    margin-left: 60px;
+    border-radius: 0.3cm;
+}
+#Password{
+    margin-left: 29.5px;
+    border-radius: 0.3cm;
+}
+body{
+    
+    width: 70%;
+   
+    margin-left: 200px;
+    padding-bottom: 150px;
+    margin-top: 60px;
+    padding-right: 80px;
+    border-radius: 0.4cm;
+    background-image: url(wallpaper/fabian-albert-bl_NUhqLC8o-unsplash.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  
+    
+    
+
+
+    
+  background-color:#151314;  
+} 
+@media (max-width:480px){
+    .login{
+        width: 100%;
+       
+         font-family: 'Akaya Kanadaka';
+        font-size: auto;
+        color:blanchedalmond;
+       margin-left: auto;
+        flex-wrap: wrap;
+
+      
+    }
+
+
+    #Email{
+        width: 100%;
+        
+        margin-left: auto;
+        border-radius: 0.3cm;
+    }
+    #Password{
+        width: 100%;
+        margin-left: auto;
+        border-radius: 0.3cm;
+    }
+    #main{
+    
+       width: 100% ;
+       
+       
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: auto;
+      margin-bottom: auto;
+       
+        
+      
+        
+    }
+    label{
+        font-family: 'Akaya Kanadaka';
+        font-size: 22px;
+        color:cornsilk;
+        
+    }
+    body{
+    
+    
+      /* width: 100% auto; */
+      background-image: url(wallpaper/fabian-albert-bl_NUhqLC8o-unsplash.jpg);
+      background-size: 230% auto;
+      background-color:#151314 ;
+      
+
+        
+        
+    
+    }
+
+
+}
+@media (min-width:480px) and (max-width:760px){
+    .login{
+        width: 100%;
+       
+         font-family: 'Akaya Kanadaka';
+        font-size: auto;
+        color:blanchedalmond;
+       margin-left: auto;
+        flex-wrap: wrap;
+
+      
+    }
+
+
+    #Email{
+        width: 100%;
+        
+        margin-left: auto;
+        border-radius: 0.3cm;
+    }
+    #Password{
+        width: 100%;
+        margin-left: auto;
+        border-radius: 0.3cm;
+    }
+    #main{
+    
+         
+       width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: auto;
+      margin-bottom: auto;
+       
+        
+      
+        
+    }
+    label{
+        font-family: 'Akaya Kanadaka';
+        font-size: 22px;
+        color:cornsilk;
+        
+    }
+    body{
+    
+    
+    
+      background-image: url(wallpaper/fabian-albert-bl_NUhqLC8o-unsplash.jpg);
+      background-size: 200%  ;
+      background-color:#151314 ;
+      
+
+        
+        
+    
+    }
+
+
+}
+@media( min-width:1020px)and (max-width:1280px){
+    .login{
+        width: 100%;
+       
+         font-family: 'Akaya Kanadaka';
+        font-size: auto;
+        color:blanchedalmond;
+       margin-left: auto;
+        flex-wrap: wrap;
+
+      
+    }
+
+
+    #Email{
+        width: 100%;
+        
+        margin-left: auto;
+        border-radius: 0.3cm;
+    }
+    #Password{
+        width: 100%;
+        margin-left: auto;
+        border-radius: 0.3cm;
+    }
+    #main{
+    
+       width: 100% ;
+       
+       
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: auto;
+      margin-bottom: auto;
+       
+        
+      
+        
+    }
+    label{
+        font-family: 'Akaya Kanadaka';
+        font-size: 22px;
+        color:cornsilk;
+        
+    }
+    body{
+    
+    
+      
+      background-image: url(wallpaper/fabian-albert-bl_NUhqLC8o-unsplash.jpg);
+      background-size: 200% ;
+      background-color:#151314 ;
+      
+
+        
+        
+    
+    }
+
+
+}
+@media (min-width:760px) and(max-width:1020px){
+    .login{
+        width: 100%;
+       
+         font-family: 'Akaya Kanadaka';
+        font-size: auto;
+        color:blanchedalmond;
+       margin-left: auto;
+        flex-wrap: wrap;
+
+      
+    }
+
+
+    #Email{
+        width: 100%;
+        
+        margin-left: auto;
+        border-radius: 0.3cm;
+    }
+    #Password{
+        width: 100%;
+        margin-left: auto;
+        border-radius: 0.3cm;
+    }
+    #main{
+    
+       width: 100% ;
+       
+       
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: auto;
+      margin-bottom: auto;
+       
+        
+      
+        
+    }
+    label{
+        font-family: 'Akaya Kanadaka';
+        font-size: 22px;
+        color:cornsilk;
+        
+    }
+    body{
+    
+    
+     
+      background-image: url(wallpaper/fabian-albert-bl_NUhqLC8o-unsplash.jpg);
+      background-size: 200% ;
+      background-color:#151314 ;
+      
+
+        
+        
+    
+    }
+
+
+}
